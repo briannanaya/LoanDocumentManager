@@ -9,13 +9,6 @@
 - [Course Goals](#course-goals)
 
 ## Project Overview  
-This project was developed as part of a hands-on course on enterprise-level software system development. The course focused on principles and best practices, including:  
-- Architectural patterns  
-- Database modeling  
-- Remote deployment  
-- Concurrency management  
-- Enterprise data systems  
-
 The **Loan Document Management System** provides a complete solution for managing loan document files by:  
 1. **Retrieving loan files**: Using API endpoints to query and request loan documents from an external server simulating employee uploads.  
 2. **Storing files**: Organizing and storing retrieved documents in a local file system.  
