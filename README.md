@@ -4,10 +4,10 @@ This project was developed as part of a hands-on course on enterprise-level soft
 ## Project Overview
 The Loan Document Management System provides a complete solution for managing loan document files by:
 
-Retrieving loan files: Using API endpoints to query and request loan documents from an external server.
+Retrieving loan files: Using API endpoints to query and request loan documents from an external server that acts as employees uploading files.
 Storing files: Organizing and storing retrieved documents into a local file system.
 Database integration: Automating the process of moving file metadata and content into a database (via phpMyAdmin) using cron jobs.
-Web interface: Enabling users to search for loans based on various criteria (e.g., type, loan number, or date range). Users can view detailed loan information with just a click.
+Web interface: Enabling users to search for loans based on various criteria (e.g., type, loan number, or date range). Users can view detailed loan information with just a click. Enables employees to also upload pdf files manually.
 ## Features
 Data Management: Robust handling of loan documents, ensuring consistency and organization.
 Cron Job Automation: Streamlined workflows for importing data into the database.
