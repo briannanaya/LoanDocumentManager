@@ -1,5 +1,14 @@
 # Loan Document Management System  
 
+## Table of Contents  
+- [Project Overview](#project-overview)  
+- [Features](#features)
+- [Demos](#demos)
+- [Technologies Used](#technologies-used)  
+- [Learning Objectives](#learning-objectives)  
+- [Course Goals](#course-goals)
+
+## Project Overview  
 This project was developed as part of a hands-on course on enterprise-level software system development. The course focused on principles and best practices, including:  
 - Architectural patterns  
 - Database modeling  
@@ -7,7 +16,6 @@ This project was developed as part of a hands-on course on enterprise-level soft
 - Concurrency management  
 - Enterprise data systems  
 
-## Project Overview  
 The **Loan Document Management System** provides a complete solution for managing loan document files by:  
 1. **Retrieving loan files**: Using API endpoints to query and request loan documents from an external server simulating employee uploads.  
 2. **Storing files**: Organizing and storing retrieved documents in a local file system.  
